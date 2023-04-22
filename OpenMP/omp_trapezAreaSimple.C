@@ -1,13 +1,18 @@
 /*
   Purpose:
 
-    trapezAreaSimple is an example that implements the trapezoidal rule to approximate the integral of a function over a user-defined interval, 
-    using a user-specified number of subintervals. This code has been modified for use in an introductory level Parallel Programming student context.
+   trapezAreaSimple is an example that implements the trapezoidal rule to approximate the integral of a function over a user-defined interval,
+   using a user-specified number of subintervals. This code has been modified for use in an introductory level Parallel Programming student context.
 
+   The changes that are made are made based on parallelizing the original code with OpenMP
+    
+   Example:
+   
+   31 May 2001 09:45:54 AM
 
   Licensing:
 
-    This code is distributed under the GNU LGPL license.
+   This code is distributed under the GNU LGPL license.
 
   Modified:
 
