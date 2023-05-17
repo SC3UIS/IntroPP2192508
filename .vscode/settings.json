@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "trapezAreaSimple.C": "cpp",
+        "mpi_trapezAreaSimple.C": "cpp"
+    }
+}
