@@ -9,7 +9,7 @@
 module load devtools/mpi/mpich/3.3.1
 
 ## Compilación del código
-mpicc MPI_trapezAreaSimple.C -o mpiarea
+mpicc MPI_trapezAreaSimple.C -o mpi_trapecio
 
 ## Ejecución con MPI
-mpirun -np 12 ./mpiarea
+mpirun -np 12 ./mpi_trapecio
