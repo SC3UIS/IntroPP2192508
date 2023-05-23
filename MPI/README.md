@@ -1,7 +1,8 @@
-A continuación pdremos observar el tiempo de ejecución de cada uno de los archivos presentes `trapezAreaSimple.C`, `mpi_trapezAreaSimple.C` y `omp_trapezAreaSimple.C`
-
+# Procesamiento Memoria Distribuída
+Aquí en esta carpeta se encuentran los archivos necesarios para compilar y ejecutar el código MPI (MPI_trapezAreaSimple.C). Además, se incluyen otros archivos importantes como MPI_trapezAreaSimple.sbatch, output_trapezAreaSimple.txt (archivo de salida), trapezAreaSimple.C (código original) y el ejecutable correspondiente.
 
 # TIEMPO EJECUCIÓN PARA LOS 3 ARCHIVOS
+A continuación pdremos observar el tiempo de ejecución de cada uno de los archivos presentes `trapezAreaSimple.C`, `mpi_trapezAreaSimple.C` y `omp_trapezAreaSimple.C`
 
 ## `trapezAreaSimple.C`
 [jdaclarog@guane MPI]$ time ./trapecio
